@@ -1,3 +1,1 @@
-# Bitcoin Cleanup
 
-Hello World.

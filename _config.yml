@@ -5,15 +5,20 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+  
+
 ############################
 # --- Required options --- #
 ############################
 
 # Name of website
-title: My Website
+title: Bitcoin Cleanup
 
 # Your name to show in the footer
-author: Some Person
+author: The Bitcoin Cleanup Team
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  Official Blog
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -49,13 +54,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "hello@bitcoincleanup.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -79,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: The Official Bitcoin Cleanup Blog
 
 ###########################
 # --- General options --- #
@@ -94,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "blog.bitcoincleanup.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -109,7 +114,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -284,9 +289,6 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
