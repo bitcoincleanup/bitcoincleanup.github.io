@@ -1,8 +1,8 @@
 (Month) (Day) (Year)
 
 The Honorable (First name) (Last name)
-(Room Number), State Capitol
-Sacramento, CA (Zip Code)
+(Room Number), (State Capitol name)
+(city), (state abbreviation) (Zip Code)
 
 RE: Energy use of Proof of Work concerning Executive Order 14067
 
