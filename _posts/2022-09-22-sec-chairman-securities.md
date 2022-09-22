@@ -1,5 +1,7 @@
 # SEC's Gensler says PoS cryptos might be classifed as securities
 
+![](https://i.imgur.com/ccBtiAl.jpg)
+
 Gary Gensler, the SEC Chairman, has recently hinted that the SEC might classify proof-of-stake cryptocurrencies as securities. Up until now, they ware generally accepted with the commodities classification.
 
 Gensler did not specifically mention Ethereum, but given that it has recently completed the Merge, the transition to Proof of Stake, it could potentially also be classified as a security. However, he also mentioned that Bitcoin, the biggest cryptocurrency, is not a security as there are no middlemen, unlike "a vast majority" of other cryptocurrencies.
