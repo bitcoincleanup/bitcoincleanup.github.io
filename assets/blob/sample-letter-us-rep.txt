@@ -14,14 +14,15 @@ My name is (your first and last name) and I am a (community member/advocate
 /service provider/business owner/instructor/<your profession>) who resides in your district.
 
 In light of recent developments related to energy policy, in particular the discussions resulting
-from Executive Order 14067 (Ensuring Responsible Development of Digital Assets), there have been
-some calls recently from certain communities to restrict the use of a particular Digital Asset
-process called "Proof of Work" because of energy concerns.
+from Executive Order 14067 of March 9, 2022 (Ensuring Responsible Development of Digital Assets),
+there have been some calls recently from certain communities to restrict the use of a particular
+Digital Asset process called "Proof of Work" because of energy concerns.
 
-I want to inform you that these concerns are misguided. Although it is easy to see that the
-Proof of Work process uses a significant amount of energy, it is possible to perform the process
-in such a way that not only causes it to run exclusively on renewable energy, but also incentivizes
-other business sectors to transition to clean energy. The latter part deserves some elaboration.
+I want to inform you that these calls-to-action are misguided and do not completely present the
+environmental situation. Although it is easy to see that the Proof of Work process uses a
+significant amount of energy, it is possible to perform the process in such a way that not only
+causes it to run exclusively on renewable energy, but also incentivizes other business sectors
+to transition to clean energy. The latter part deserves some elaboration.
 
 Proof of Work can improve the efficiency of the energy industry by preventing something called
 Renewable Curtailment, which is defined as "the deliberate reduction in output below what could
