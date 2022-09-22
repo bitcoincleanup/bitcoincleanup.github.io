@@ -13,7 +13,7 @@ Gensler did not specifically mention Ethereum, but given that it has recently co
 
 Ethereum's price dipped by about 11% after his comments.
 
-Source: https://forkast.news/secs-gensler-proof-stake-cryptocurrencies-securities/ and many others
+Source: [https://forkast.news/secs-gensler-proof-stake-cryptocurrencies-securities/](https://forkast.news/secs-gensler-proof-stake-cryptocurrencies-securities/) and many others
 
 ---
 
