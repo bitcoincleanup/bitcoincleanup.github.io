@@ -1,0 +1,70 @@
+(Month) (Day) (Year)
+
+The Honorable (First name) (Last name)
+(Room Number), State Capitol
+Sacramento, CA (Zip Code)
+
+RE: Energy use of Proof of Work in relation to Executive Order 14067
+
+the Executive Order on Ensuring Responsible Development of Digital Assets
+
+Dear (Assembly Member/Senator) (Last name):
+
+My name is (your first and last name) and I am a (community member/advocate
+/service provider/business owner/instructor/<your profession>) who resides in your district.
+
+In light of recent developments related to energy policy, in particular the discussions resulting
+from Executive Order 14067 (Ensuring Responsible Development of Digital Assets), there have been
+some calls recently from certain communities to restrict the use of a particular Digital Asset
+process called "Proof of Work" because of energy concerns.
+
+I want to inform you that these concerns are misguided. Although it is easy to see that the
+Proof of Work process uses a significant amount of energy, it is possible to perform the process
+in such a way that not only causes it to run exclusively on renewable energy, but also incentivizes
+other business sectors to transition to clean energy. The latter part deserves some elaboration.
+
+Proof of Work can improve the efficiency of the energy industry by preventing something called
+Renewable Curtailment, which is defined as "the deliberate reduction in output below what could
+have been produced in order to balance energy supply". Renewable Curtailment prevents power grids
+from working at maximum capacity and is one of the leading reasons for the increases in the number
+of rolling power outages in certain districts.
+
+Proof of Work can solve this problem when electric utilities and the digital asset companies
+responsible for excessive energy consumption (called "miners" by the industry) enter into a
+mutual agreement where the miners reduce their electrical consumption during times of peak
+power generation, in return for a fee paid to them by the utility. In return, the miners
+purchase all surplus electricity from the utility during all other periods.
+
+This will benefit the power generation industry because they can make a profit selling surplus
+electricity, and the commission they pay to miners to reduce their energy usage is much less
+than that. It also enables the utilities to avoid penalties and fines for burning fossil fields
+(also known as carbon tax) as renewable sources are naturally positioned to generating unlimited
+amounts of energy, subject to capacity limits. In other words, Proof of Work encourages the
+utilities and power plants to buy more renweable infrastructure such as solar panels and wind
+turbines, because they know there will always be a buyer for the extra electricity.
+
+If implemented properly, this scheme can reduce the amount of fossil fuels bruned nation-wide,
+almost singlehandedly pushing the country to carbon-neutrality in ways that other political
+proposals cannot.
+
+It is worth mentioning that the push for other industries to renewable energy is only possible
+in Proof of Work; because of technical limitations, it does not work for other processes,
+such as a recent and experimental process called "Proof of Stake" that is not been fully trialled
+in real-life financial constraints. Proof of Work is the only process that has demonstrsted its
+capability of being used in a real-life economy - it is utilized by the largest digital assets,
+such as Bitcoin. There are no other processes used by the digital assets industry besides the
+two mentioned.
+
+For the above reason, legislation for restricting Proof of Work will definitely have disasterous
+consequences for the digital assets industry as it will force them to change their processes to
+the insufficiently-tested Proof of Stake. Such a change will cost the digital assets industry
+billions of dollars in lost revenue. I strongly urge you to oppose any legistlation that
+restricts the use of the Proof of Work process used by the digital asset industry.
+
+
+Sincerely,
+SIGN YOUR NAME
+
+Print your name
+Street address
+City, State, Zip code
