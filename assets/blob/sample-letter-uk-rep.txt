@@ -29,16 +29,20 @@ from working at maximum capacity and is one of the leading reasons for the incre
 of rolling power outages in certain districts.
 
 Proof of Work can solve this problem when electric utilities and the digital asset companies
-responsible for excessive energy consumption (called "miners" by the industry) enter into a
-mutual agreement where the miners reduce their electrical consumption during times of peak
-power generation, in return for a fee paid to them by the utility. In return, the miners
-purchase all surplus electricity from the utility during all other periods.
+responsible for energy consumption at industry-level demand (these entities are called "miners"
+by the industry) enter into a mutual agreement with utility companies to purchase allotments of
+energy on long term contracts lasting for several months. This gives responsible predictable
+power supply and consumption, and thus evades the peaks and dips of unpredictable demand.
+
+Then, the miners can reduce/manage their electrical consumption via efficiency methods of new
+equipment and business planning, where they can sell some of their allotment at a buyback rate
+the utility company pays.
 
 This scheme will benefit the power generation industry because they can profit from selling
-surplus electricity, and the commission they pay miners to reduce their energy usage is much
-less. It also enables the utilities to avoid penalties and fines for burning fossil fields
-(also known as a carbon tax), as renewable sources have the potential to generate unlimited
-amounts of energy, subject to capacity limits.
+surplus electricity, and the buyback from miners is a far below 100% of the contract value.
+It also enables the utilities to avoid penalties and fines for burning fossil fields (also
+known as a carbon tax), as renewable sources have the potential to generate unlimited amounts
+of energy, subject to capacity limits of the power grids.
 
 In other words, Proof of Work encourages the utilities and power plants to buy more renewable
 infrastructure, such as solar panels and wind turbines, because they know there will always be a
