@@ -1,0 +1,75 @@
+(Month) (Day) (Year)
+
+The Honorable (First name) (Last name)
+(Room Number), (Parliament name)
+(city), (district abbreviation) (Zip Code)
+
+RE: Energy use of Proof of Work concerning EU legislation
+
+Dear (Assembly Member/MP) (Last name):
+
+My name is (your first and last name), and I am a (community member/advocate
+/service provider/business owner/instructor/<your profession>) who resides in your district.
+
+In light of recent developments related to energy policy, in particular, the discussions resulting
+from recent EU legislation related to energy usage of digital assets, there have been some calls
+recently from specific communities to restrict the use of a particular Digital Asset process known
+as "Proof of Work" because of energy concerns.
+
+I want to inform you that these calls to action are misguided and do not wholly present the
+environmental situation. It is easy to see that the Proof of Work process consumes 
+significant energy. However, the process can work in such a way that not only
+causes it to run exclusively on renewable energy but also encourages other business sectors
+to transition to clean energy. The latter part deserves some elaboration.
+
+Proof of Work can improve the efficiency of the energy industry by preventing something called
+Renewable Curtailment, defined as "the deliberate reduction in output below what could
+have been produced in order to balance energy supply". Renewable Curtailment prevents power grids
+from working at maximum capacity and is one of the leading reasons for the increases in the number
+of rolling power outages in certain districts.
+
+Proof of Work can solve this problem when electric utilities and the digital asset companies
+responsible for excessive energy consumption (called "miners" by the industry) enter into a
+mutual agreement where the miners reduce their electrical consumption during times of peak
+power generation, in return for a fee paid to them by the utility. In return, the miners
+purchase all surplus electricity from the utility during all other periods.
+
+This scheme will benefit the power generation industry because they can profit from selling
+surplus electricity, and the commission they pay miners to reduce their energy usage is much
+less. It also enables the utilities to avoid penalties and fines for burning fossil fields
+(also known as a carbon tax), as renewable sources have the potential to generate unlimited
+amounts of energy, subject to capacity limits.
+
+In other words, Proof of Work encourages the utilities and power plants to buy more renewable
+infrastructure, such as solar panels and wind turbines, because they know there will always be a
+buyer for the extra electricity.
+
+If appropriately implemented, this scheme can reduce the amount of fossil fuels burned nationwide,
+almost singlehandedly pushing the Member States to carbon-neutrality in ways that other political
+proposals cannot.
+
+It is worth mentioning that the push for other industries to renewable energy is only possible
+in Proof of Work. Because of technical limitations, it does not work for other processes. In
+particular, it's not possible when using a particular experimental process called "Proof of Stake";
+moreover, it has not been thoroughly trialed in real-life financial constraints.
+
+Proof of Work is the only process that has demonstrated its capability of being used in a real-life
+economy - the most prominent digital assets utilize it, such as Bitcoin. The vast majority of the
+digital assets industry uses no other processes besides the two mentioned.
+
+For the reasons written in the previous two paragraphs, legislation restricting Proof of Work will
+have disastrous consequences for the digital assets industry as it will force them to change their
+processes to the insufficiently-tested Proof of Stake. Such a change will not only deprive the
+Member States of a unique opportunity to accelerate the transition of all industries to renewables,
+but it will also cost the digital assets industry billions of dollars in lost revenue.
+
+I strongly urge you to oppose any legislation that restricts the use of the Proof of Work
+process used by the digital assets industry.
+
+
+Sincerely,
+SIGN YOUR NAME
+
+Print your name
+Street address
+City, District, Zip code
