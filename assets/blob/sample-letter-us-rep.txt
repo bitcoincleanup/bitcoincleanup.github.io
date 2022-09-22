@@ -40,7 +40,7 @@ the utility company pays.
 
 This scheme will benefit the power generation industry because they can profit from selling
 surplus electricity, and the buyback from miners is a far below 100% of the contract value.
-It also enables the utilities to avoid penalties and fines for burning fossil fields (also
+It also enables the utilities to avoid penalties and fines for burning fossil fuels (also
 known as a carbon tax), as renewable sources have the potential to generate unlimited amounts
 of energy, subject to capacity limits of the power grids.
 
