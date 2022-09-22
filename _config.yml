@@ -52,6 +52,7 @@ round-avatar: true
 social-network-links:
   email: "hello@bitcoincleanup.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  twitter: BitcoinCleanup
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
