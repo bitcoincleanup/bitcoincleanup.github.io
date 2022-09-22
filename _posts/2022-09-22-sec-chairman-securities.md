@@ -3,8 +3,6 @@ title: SEC's Gensler says PoS cryptos might be classifed as securities
 subtitle: Possibility of Ethereum being regulated as a security
 ---
 
-# SEC's Gensler says PoS cryptos might be classifed as securities
-
 ![](https://i.imgur.com/ccBtiAl.jpg)
 
 Gary Gensler, the SEC Chairman, has recently hinted that the SEC might classify proof-of-stake cryptocurrencies as securities. Up until now, they ware generally accepted with the commodities classification.
@@ -28,3 +26,5 @@ The implications will reach exchanges, who are responsible for listing cryptocur
 ## Not Bitcoin's problem
 
 Bitcoin does not have to worry about being reclassified as a security, because it does not use staking in the first place. Instead, miners can opt to use greener forms of energy, striking deals with utilities to buy up surplus electricity and get paid to use less, and moving out of places where there is a shortage of electricity on the grid.
+
+Always remember that Proof of Work is the most secure, decentralized cryptocurrency algorithm and is the only one that has the potential to push other industries to using renewable energy.
