@@ -4,7 +4,7 @@ email: hello@bitcoincleanup.com
 description: > # this means to ignore newlines until "show_excerpts:"
   The Bitcoin Cleanup Blog
   
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true
 
 theme: minima
 
