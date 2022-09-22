@@ -1,6 +1,10 @@
 ---
 title: SEC's Gensler says PoS cryptos might be classifed as securities
 subtitle: Possibility of Ethereum being regulated as a security
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [ethereum, sec]
 ---
 
 ![](https://i.imgur.com/ccBtiAl.jpg)
