@@ -1,0 +1,44 @@
+Subject: Opinions about Proof of Work and Bitcoin
+<Use a different varation of the subject line where possible, so as to evade email-deleting filters.>
+
+To: <The email address>
+<ONE email message for each address only. Do not use CC or BCC, otherwise they will know you are just
+     mass-sending emails and they will ignore your mail.>
+
+Body:
+  
+Dear <name of person / organization>,
+  
+My name is <your name> and I am a <insert your profession - if you don't have one, just write "cryptocurrency holder">. I am reaching out to you in regards to the increased discussion about Bitcoin and climate change on the internet. Since you are also a member of the Bitcoin community, it will be beneficial for you to hear these views.
+  
+Lately, there has been some talk about Bitcoin's Proof of Work (PoW) algorithm using a lot of energy. This is a true but misleading statement. It is true in the sense that Proof of Work requires a lot of energy to operate. But it is also misleading in the fact that contrary to the popular narrative, a large percentage of bitcoin mining does not burn fossil fuels.
+
+The percentage of energy used in Bitcoin mining that is renewable has reached 59.5% in Q2 2022, up by 6% compared to last year[1]. And this number will only continue to grow in the future as more electricity-sharing agreements are struck between miners and power plants. Riot Blockchain did just that this summer[2]. It signed a contract with the Texas power grid to buy a large capacity of energy at extremely low prices, and then sold some of that energy back to Texas during its well-known heat wave. This enabled the Texas power grid to distribute urgently needed electricity to homes and businesses.
+
+As you can see, Proof of Work has the potential to be extremely helpful in these scenarios in ways that Proof of Stake (PoS) cannot. Because Proof of Stake hardly utilizes any energy, it is meaningless for staking pools to enter into agreements with utilities - which would've given those utilities the confidence to expand their power grids with renewable energy.
+
+This is not the only drawback of PoS. The second drawback is that mining pools are replaced by staking pools, which have the potential to go insolvent and cause the staking users (the direct replacements of miners) to lose their entire stake. This is because their individual stake is not actually locked into networks such as Ethereum, but rather, it's on some company's database which has the capacity to be hacked or looted, as successive news stories about DeFi hacks have tought us.
+
+Hacks are not the only things that can go wrong - it is possible for staking pools to misappropriate funds away from the network's staking protocol to other corporate expenses such as loans. Because the staking pools run on 3rd-party software outside the blockchain, it is impossible for ordinary staking users to determine whether this has happened. If this happens, and the loanees default on their loans, Proof of Stake coins could end up in a free-fall similar to the one that happened in the aftermath of the Voyager, Three Arrows Capital, and Celcius bankruptcies during mid-2022.
+
+I can understand Ethereum's desire to migrate to Proof of Stake in the name of environmental friendliness. It can only be hoped that they have already made a contigency plan in the event that large staking pools are hacked and go illiquid.
+
+Bitcoin developers and community members, on the other hand, have decided that it is not worth it to introduce these risks to the network in the name of environmentally friendliness. Environmentally friendliness can equally be obtained by getting all Bitcoin mining farms to run on 100% renewable energy.
+
+"Change the code, not the climate" is not the solution to the mining problem. Mining problems require solutions from Bitcoin miners. The only thing that will be accomplished with a ban on Proof of Work is the free-fall of cryptocurrencies such as Bitcoin, Litecoin, and Dogecoin, whereas the miners themselves move to other jurdistinctions like those in China did.
+
+I hope you will consider this feedback and acknowledge that CO2 pollution from mining is not caused by Bitcoin developers.
+
+Best,
+<your name>
+<your organization or website if you have one>
+
+---
+
+[1]: https://bitcoinminingcouncil.com/bitcoin-mining-electricity-mix-increased-to-59-5-sustainable-in-q2-2022/
+[2]: https://www.theregister.com/2022/08/03/texas_bitcoin_power/
+
+
+======== END OF BODY ========
+
+<If you want, you can make small variations to the email body with new information or other criticisms, so that all emails don't get caught in a deletion filter.>
