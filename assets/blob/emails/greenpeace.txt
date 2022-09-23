@@ -27,7 +27,9 @@ Bitcoin developers and community members, on the other hand, have decided that i
 
 "Change the code, not the climate" is not the solution to the mining problem. Mining problems require solutions from Bitcoin miners. The only thing that will be accomplished with a ban on Proof of Work is the free-fall of cryptocurrencies such as Bitcoin, Litecoin, and Dogecoin, whereas the miners themselves move to other jurdistinctions like those in China did.
 
-I hope you will consider this feedback and acknowledge that CO2 pollution from mining is not caused by Bitcoin developers.
+I hope you will consider this feedback and acknowledge that CO2 pollution from mining is not caused by Bitcoin developers. You can find more information about Proof of Work and Proof of Stake at the following website:
+
+https://bitcoincleanup.com
 
 Best,
 <your name>
